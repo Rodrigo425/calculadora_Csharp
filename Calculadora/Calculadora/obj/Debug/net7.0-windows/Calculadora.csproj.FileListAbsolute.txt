@@ -1,0 +1,54 @@
+C:\Users\rodri\Desktop\Analise e desenvolvimento de sistemas\Tecnologia programação\Projetos faculdade python e html\Linguagem C#\Projeto calculadora\Calculadora\Calculadora\bin\Debug\net7.0-windows\Calculadora.exe
+C:\Users\rodri\Desktop\Analise e desenvolvimento de sistemas\Tecnologia programação\Projetos faculdade python e html\Linguagem C#\Projeto calculadora\Calculadora\Calculadora\bin\Debug\net7.0-windows\Calculadora.deps.json
+C:\Users\rodri\Desktop\Analise e desenvolvimento de sistemas\Tecnologia programação\Projetos faculdade python e html\Linguagem C#\Projeto calculadora\Calculadora\Calculadora\bin\Debug\net7.0-windows\Calculadora.runtimeconfig.json
+C:\Users\rodri\Desktop\Analise e desenvolvimento de sistemas\Tecnologia programação\Projetos faculdade python e html\Linguagem C#\Projeto calculadora\Calculadora\Calculadora\bin\Debug\net7.0-windows\Calculadora.dll
+C:\Users\rodri\Desktop\Analise e desenvolvimento de sistemas\Tecnologia programação\Projetos faculdade python e html\Linguagem C#\Projeto calculadora\Calculadora\Calculadora\bin\Debug\net7.0-windows\Calculadora.pdb
+C:\Users\rodri\Desktop\Analise e desenvolvimento de sistemas\Tecnologia programação\Projetos faculdade python e html\Linguagem C#\Projeto calculadora\Calculadora\Calculadora\obj\Debug\net7.0-windows\Calculadora.csproj.AssemblyReference.cache
+C:\Users\rodri\Desktop\Analise e desenvolvimento de sistemas\Tecnologia programação\Projetos faculdade python e html\Linguagem C#\Projeto calculadora\Calculadora\Calculadora\obj\Debug\net7.0-windows\Calculadora.csproj.GenerateResource.cache
+C:\Users\rodri\Desktop\Analise e desenvolvimento de sistemas\Tecnologia programação\Projetos faculdade python e html\Linguagem C#\Projeto calculadora\Calculadora\Calculadora\obj\Debug\net7.0-windows\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\Desktop\Analise e desenvolvimento de sistemas\Tecnologia programação\Projetos faculdade python e html\Linguagem C#\Projeto calculadora\Calculadora\Calculadora\obj\Debug\net7.0-windows\Calculadora.AssemblyInfoInputs.cache
+C:\Users\rodri\Desktop\Analise e desenvolvimento de sistemas\Tecnologia programação\Projetos faculdade python e html\Linguagem C#\Projeto calculadora\Calculadora\Calculadora\obj\Debug\net7.0-windows\Calculadora.AssemblyInfo.cs
+C:\Users\rodri\Desktop\Analise e desenvolvimento de sistemas\Tecnologia programação\Projetos faculdade python e html\Linguagem C#\Projeto calculadora\Calculadora\Calculadora\obj\Debug\net7.0-windows\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\rodri\Desktop\Analise e desenvolvimento de sistemas\Tecnologia programação\Projetos faculdade python e html\Linguagem C#\Projeto calculadora\Calculadora\Calculadora\obj\Debug\net7.0-windows\Calculadora.dll
+C:\Users\rodri\Desktop\Analise e desenvolvimento de sistemas\Tecnologia programação\Projetos faculdade python e html\Linguagem C#\Projeto calculadora\Calculadora\Calculadora\obj\Debug\net7.0-windows\refint\Calculadora.dll
+C:\Users\rodri\Desktop\Analise e desenvolvimento de sistemas\Tecnologia programação\Projetos faculdade python e html\Linguagem C#\Projeto calculadora\Calculadora\Calculadora\obj\Debug\net7.0-windows\Calculadora.pdb
+C:\Users\rodri\Desktop\Analise e desenvolvimento de sistemas\Tecnologia programação\Projetos faculdade python e html\Linguagem C#\Projeto calculadora\Calculadora\Calculadora\obj\Debug\net7.0-windows\Calculadora.genruntimeconfig.cache
+C:\Users\rodri\Desktop\Analise e desenvolvimento de sistemas\Tecnologia programação\Projetos faculdade python e html\Linguagem C#\Projeto calculadora\Calculadora\Calculadora\obj\Debug\net7.0-windows\ref\Calculadora.dll
+C:\Users\rodri\Desktop\Analise e desenvolvimento de sistemas\Tecnologia programação\Projetos faculdade python e html\Linguagem C#\Projeto calculadora\Calculadora\Calculadora\obj\Debug\net7.0-windows\Calculadora.Tela.resources
+C:\Users\rodri\Desktop\Analise e desenvolvimento de sistemas\Tecnologia programação\Projetos faculdade python e html\Linguagem C#\Projeto calculadora\Calculadora\Calculadora\obj\Debug\net7.0-windows\Calculadora.Properties.Resources.resources
+C:\Users\rodri\Desktop\Calculadora em C#\Calculadora\Calculadora\bin\Debug\net7.0-windows\Calculadora.exe
+C:\Users\rodri\Desktop\Calculadora em C#\Calculadora\Calculadora\bin\Debug\net7.0-windows\Calculadora.deps.json
+C:\Users\rodri\Desktop\Calculadora em C#\Calculadora\Calculadora\bin\Debug\net7.0-windows\Calculadora.runtimeconfig.json
+C:\Users\rodri\Desktop\Calculadora em C#\Calculadora\Calculadora\bin\Debug\net7.0-windows\Calculadora.dll
+C:\Users\rodri\Desktop\Calculadora em C#\Calculadora\Calculadora\bin\Debug\net7.0-windows\Calculadora.pdb
+C:\Users\rodri\Desktop\Calculadora em C#\Calculadora\Calculadora\obj\Debug\net7.0-windows\Calculadora.csproj.AssemblyReference.cache
+C:\Users\rodri\Desktop\Calculadora em C#\Calculadora\Calculadora\obj\Debug\net7.0-windows\Calculadora.Tela.resources
+C:\Users\rodri\Desktop\Calculadora em C#\Calculadora\Calculadora\obj\Debug\net7.0-windows\Calculadora.Properties.Resources.resources
+C:\Users\rodri\Desktop\Calculadora em C#\Calculadora\Calculadora\obj\Debug\net7.0-windows\Calculadora.csproj.GenerateResource.cache
+C:\Users\rodri\Desktop\Calculadora em C#\Calculadora\Calculadora\obj\Debug\net7.0-windows\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\Desktop\Calculadora em C#\Calculadora\Calculadora\obj\Debug\net7.0-windows\Calculadora.AssemblyInfoInputs.cache
+C:\Users\rodri\Desktop\Calculadora em C#\Calculadora\Calculadora\obj\Debug\net7.0-windows\Calculadora.AssemblyInfo.cs
+C:\Users\rodri\Desktop\Calculadora em C#\Calculadora\Calculadora\obj\Debug\net7.0-windows\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\rodri\Desktop\Calculadora em C#\Calculadora\Calculadora\obj\Debug\net7.0-windows\Calculadora.dll
+C:\Users\rodri\Desktop\Calculadora em C#\Calculadora\Calculadora\obj\Debug\net7.0-windows\refint\Calculadora.dll
+C:\Users\rodri\Desktop\Calculadora em C#\Calculadora\Calculadora\obj\Debug\net7.0-windows\Calculadora.pdb
+C:\Users\rodri\Desktop\Calculadora em C#\Calculadora\Calculadora\obj\Debug\net7.0-windows\Calculadora.genruntimeconfig.cache
+C:\Users\rodri\Desktop\Calculadora em C#\Calculadora\Calculadora\obj\Debug\net7.0-windows\ref\Calculadora.dll
+C:\Users\rodri\OneDrive\Área de Trabalho\Arquivos HD\Calculadora em C#\Calculadora\Calculadora\bin\Debug\net7.0-windows\Calculadora.exe
+C:\Users\rodri\OneDrive\Área de Trabalho\Arquivos HD\Calculadora em C#\Calculadora\Calculadora\bin\Debug\net7.0-windows\Calculadora.deps.json
+C:\Users\rodri\OneDrive\Área de Trabalho\Arquivos HD\Calculadora em C#\Calculadora\Calculadora\bin\Debug\net7.0-windows\Calculadora.runtimeconfig.json
+C:\Users\rodri\OneDrive\Área de Trabalho\Arquivos HD\Calculadora em C#\Calculadora\Calculadora\bin\Debug\net7.0-windows\Calculadora.dll
+C:\Users\rodri\OneDrive\Área de Trabalho\Arquivos HD\Calculadora em C#\Calculadora\Calculadora\bin\Debug\net7.0-windows\Calculadora.pdb
+C:\Users\rodri\OneDrive\Área de Trabalho\Arquivos HD\Calculadora em C#\Calculadora\Calculadora\obj\Debug\net7.0-windows\Calculadora.csproj.AssemblyReference.cache
+C:\Users\rodri\OneDrive\Área de Trabalho\Arquivos HD\Calculadora em C#\Calculadora\Calculadora\obj\Debug\net7.0-windows\Calculadora.Tela.resources
+C:\Users\rodri\OneDrive\Área de Trabalho\Arquivos HD\Calculadora em C#\Calculadora\Calculadora\obj\Debug\net7.0-windows\Calculadora.Properties.Resources.resources
+C:\Users\rodri\OneDrive\Área de Trabalho\Arquivos HD\Calculadora em C#\Calculadora\Calculadora\obj\Debug\net7.0-windows\Calculadora.csproj.GenerateResource.cache
+C:\Users\rodri\OneDrive\Área de Trabalho\Arquivos HD\Calculadora em C#\Calculadora\Calculadora\obj\Debug\net7.0-windows\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\OneDrive\Área de Trabalho\Arquivos HD\Calculadora em C#\Calculadora\Calculadora\obj\Debug\net7.0-windows\Calculadora.AssemblyInfoInputs.cache
+C:\Users\rodri\OneDrive\Área de Trabalho\Arquivos HD\Calculadora em C#\Calculadora\Calculadora\obj\Debug\net7.0-windows\Calculadora.AssemblyInfo.cs
+C:\Users\rodri\OneDrive\Área de Trabalho\Arquivos HD\Calculadora em C#\Calculadora\Calculadora\obj\Debug\net7.0-windows\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\rodri\OneDrive\Área de Trabalho\Arquivos HD\Calculadora em C#\Calculadora\Calculadora\obj\Debug\net7.0-windows\Calculadora.dll
+C:\Users\rodri\OneDrive\Área de Trabalho\Arquivos HD\Calculadora em C#\Calculadora\Calculadora\obj\Debug\net7.0-windows\refint\Calculadora.dll
+C:\Users\rodri\OneDrive\Área de Trabalho\Arquivos HD\Calculadora em C#\Calculadora\Calculadora\obj\Debug\net7.0-windows\Calculadora.pdb
+C:\Users\rodri\OneDrive\Área de Trabalho\Arquivos HD\Calculadora em C#\Calculadora\Calculadora\obj\Debug\net7.0-windows\Calculadora.genruntimeconfig.cache
+C:\Users\rodri\OneDrive\Área de Trabalho\Arquivos HD\Calculadora em C#\Calculadora\Calculadora\obj\Debug\net7.0-windows\ref\Calculadora.dll
